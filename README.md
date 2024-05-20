@@ -1,5 +1,7 @@
 # Top_UK_Youtubers_2024
 
+[Power Bi Report](https://app.powerbi.com/view?r=eyJrIjoiNTcyNTAyM2ItMjcxZC00NmE2LTllNGUtZDI4NDZlMzE4MjU3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 # Objective 
 
 - What is the key pain point? 
